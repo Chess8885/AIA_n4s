@@ -1,7 +1,26 @@
-# AIA_n4s_2018
+![Illustration](illustration.jpg)
+
+## Description
+
 Introduction to Artificial Intelligence
 
-# Skills to be acquired
+## Compilation
+
+```bash
+make
+```
+
+## Screenshot
+
+![Screenshot](need4stek.png)
+
+## Contributors
+
+This project has been made with :
+- Jérémy Pellerin
+
+## Skills
+
 - Overview of "Artificial Intelligence" domain 
 - Introduction to research in a state-space 
 - Awareness of the data structure problems and algorithmic complexity 
